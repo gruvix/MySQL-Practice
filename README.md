@@ -13,3 +13,5 @@ Then Download Wordpress
 [Wordpress official download site](https://wordpress.org/download/)
 
 and extract it inside ...\XAMPP\htdocs
+
+then follow the instructions from wordpress [Wordpress install guide](https://wordpress.org/support/article/how-to-install-wordpress/)
