@@ -1,22 +1,16 @@
 # MySQL-Practice
 A practice SQL project where i learned about Database and local server hosting
-Made a local hosted website using Wordpress
+Made a local hosted website using Wordpress__
 
 
-
-To start the site you first need to instal XAMPP PHP development environment
-
-[XAMPP from Apache friends](https://www.apachefriends.org/)
-
-Then Download Wordpress
-
-[Wordpress official download site](https://wordpress.org/download/)
-
-and extract it inside ...\XAMPP\htdocs
-
+To start the site you first need to instal XAMPP PHP development environment__
+[XAMPP from Apache friends](https://www.apachefriends.org/)__
+Then Download Wordpress__
+[Wordpress official download site](https://wordpress.org/download/)__
+and extract it inside ...\XAMPP\htdocs__
 then follow the instructions from wordpress [Wordpress install guide](https://wordpress.org/support/article/how-to-install-wordpress/)
 
-In summary create a database in http://localhost/phpmyadmin/index.php?route=/server/databases named "wordpress", edit the file called "wp-config-sample" inside wordpress folder, and change lines 23 to 38 to look like this:
+In summary create a database in http://localhost/phpmyadmin/index.php?route=/server/databases named "wordpress", edit the file called "wp-config-sample" inside wordpress folder and rename it to "wp-config", and change lines 23 to 38 to look like this:
 
 define( 'DB_NAME', 'wordpress' );
 
