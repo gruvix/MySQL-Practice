@@ -28,5 +28,4 @@ define( 'DB_CHARSET', 'utf8' );<br />
 /** The database collate type. Don't change this if in doubt. */<br />
 define( 'DB_COLLATE', '' );<br />
 
-![alt text](https://github.com/gruvix/MySQL-Practice/blob/main/MySQLPort.png)
-https://github.com/gruvix/AxieTracker/blob/main/tracker_thumbnail.png?raw=true
+![alt text](https://github.com/gruvix/MySQL-Practice/blob/main/MySQLPort.png)<br />
