@@ -1,5 +1,5 @@
 # MySQL-Practice
-A practice SQL project where i learned about Database and local server hosting
+A practice SQL project where i learned about Database and local server hosting<br />
 Made a local hosted website using Wordpress  
 
 
